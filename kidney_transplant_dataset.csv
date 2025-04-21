@@ -1,0 +1,1001 @@
+recipient_age,recipient_gender,diabetes_history,hypertension_history,donor_age,donor_cause_of_death,hla_match_score,cold_ischemia_time,transplant_outcome
+68,Female,No,No,25,Trauma,9.9,40.3,0
+21,Male,No,No,22,Trauma,3.6,22.8,0
+19,Male,No,No,61,Heart Attack,3.7,5.8,0
+28,Male,Yes,Yes,73,Stroke,3.9,6.8,0
+67,Female,Yes,No,36,Trauma,4.3,35.8,1
+41,Female,No,Yes,55,Heart Attack,2.1,26.4,0
+27,Male,No,Yes,70,Stroke,7.1,11.5,0
+18,Female,No,No,56,Heart Attack,6.7,2.6,0
+21,Female,No,No,29,Stroke,1.8,43.6,0
+66,Female,Yes,No,29,Trauma,1.0,32.1,1
+59,Male,Yes,Yes,77,Stroke,5.0,33.0,0
+36,Male,Yes,No,26,Stroke,1.4,33.8,1
+22,Male,No,No,38,Heart Attack,1.5,27.2,0
+67,Male,Yes,Yes,36,Stroke,4.7,45.3,0
+59,Male,No,No,64,Stroke,4.5,35.2,0
+51,Male,No,Yes,68,Heart Attack,9.6,1.2,0
+40,Male,Yes,No,25,Trauma,6.1,47.4,1
+74,Male,Yes,Yes,18,Stroke,2.9,4.4,0
+33,Female,No,No,65,Heart Attack,3.9,44.8,0
+53,Female,No,Yes,61,Stroke,8.3,17.9,1
+72,Female,Yes,Yes,61,Heart Attack,1.5,17.8,0
+74,Female,Yes,No,41,Trauma,7.5,13.2,1
+19,Male,No,No,27,Stroke,0.8,7.1,1
+55,Male,No,No,66,Heart Attack,7.3,27.5,0
+36,Female,No,Yes,22,Heart Attack,0.3,18.2,1
+65,Female,Yes,No,28,Stroke,6.5,11.6,1
+43,Female,Yes,No,73,Stroke,0.9,23.1,1
+34,Male,No,No,24,Trauma,3.0,35.8,0
+63,Male,Yes,Yes,38,Heart Attack,5.9,31.6,0
+23,Female,Yes,Yes,40,Stroke,1.7,25.2,0
+63,Male,Yes,Yes,50,Trauma,1.4,25.3,1
+47,Male,Yes,No,29,Trauma,1.6,15.0,1
+20,Male,Yes,No,59,Stroke,5.2,18.9,0
+37,Female,No,Yes,75,Heart Attack,7.2,20.6,1
+57,Female,Yes,No,46,Heart Attack,1.5,24.8,1
+43,Male,No,Yes,78,Heart Attack,2.5,45.0,1
+33,Male,No,Yes,78,Stroke,10.0,4.7,0
+31,Female,Yes,No,50,Heart Attack,2.3,38.9,0
+21,Male,Yes,No,22,Trauma,5.6,11.3,0
+70,Male,Yes,Yes,36,Trauma,3.3,26.3,1
+50,Male,No,No,26,Stroke,9.7,16.4,1
+32,Male,Yes,No,73,Trauma,8.9,39.4,1
+19,Female,No,Yes,29,Heart Attack,9.0,8.7,1
+36,Female,No,Yes,41,Heart Attack,3.0,6.5,0
+30,Male,No,No,72,Stroke,4.6,18.1,1
+64,Male,Yes,No,37,Stroke,1.2,5.2,1
+36,Female,No,No,71,Stroke,2.0,21.6,0
+57,Male,Yes,No,27,Trauma,1.6,17.7,0
+67,Female,No,No,52,Trauma,6.1,3.5,1
+24,Male,Yes,Yes,44,Trauma,4.9,12.8,0
+57,Male,Yes,Yes,69,Stroke,7.4,7.5,0
+22,Female,No,No,63,Trauma,2.7,40.7,0
+68,Female,No,No,65,Stroke,4.3,4.7,1
+18,Female,Yes,Yes,47,Trauma,9.6,5.7,0
+31,Male,No,No,19,Stroke,9.1,19.3,1
+24,Male,No,Yes,38,Trauma,9.4,24.1,1
+35,Female,No,No,53,Stroke,7.5,22.0,0
+40,Male,No,Yes,42,Stroke,8.8,31.5,1
+42,Male,No,Yes,40,Stroke,8.1,17.0,1
+32,Female,No,No,54,Heart Attack,5.9,13.6,0
+48,Female,No,No,63,Heart Attack,7.3,15.5,1
+28,Male,Yes,No,58,Heart Attack,1.7,39.8,1
+40,Female,Yes,No,71,Stroke,9.7,6.4,0
+53,Female,No,Yes,35,Trauma,5.7,26.0,1
+56,Female,No,No,52,Trauma,9.4,11.2,0
+62,Male,No,No,58,Stroke,9.9,13.2,0
+31,Male,Yes,Yes,68,Stroke,1.8,19.1,0
+61,Male,No,No,78,Stroke,5.4,28.6,0
+50,Male,No,Yes,63,Trauma,9.0,10.5,1
+50,Female,Yes,Yes,49,Heart Attack,5.5,21.4,0
+33,Male,No,No,72,Heart Attack,3.1,45.4,1
+75,Male,No,Yes,46,Trauma,4.2,32.9,1
+33,Female,No,Yes,76,Heart Attack,3.8,8.3,0
+31,Female,Yes,Yes,79,Heart Attack,1.1,40.4,0
+20,Male,Yes,No,63,Stroke,9.0,47.5,1
+62,Male,No,Yes,70,Stroke,2.1,35.5,1
+46,Male,Yes,Yes,66,Heart Attack,6.2,23.3,0
+32,Female,No,Yes,64,Trauma,4.4,30.2,1
+44,Male,No,No,44,Trauma,7.1,45.5,0
+39,Female,No,No,42,Stroke,5.6,1.6,1
+34,Female,Yes,Yes,34,Stroke,1.5,35.2,0
+37,Female,No,No,67,Trauma,6.8,1.8,1
+53,Male,Yes,Yes,56,Heart Attack,8.0,43.1,1
+21,Male,Yes,No,35,Stroke,7.3,28.0,1
+32,Female,No,Yes,74,Heart Attack,7.0,18.2,1
+53,Male,No,Yes,50,Heart Attack,2.9,5.8,0
+60,Male,No,No,78,Trauma,9.8,25.3,0
+58,Female,Yes,Yes,61,Heart Attack,6.6,9.5,0
+66,Female,Yes,No,60,Trauma,3.8,46.9,0
+69,Male,No,Yes,22,Heart Attack,4.5,30.6,1
+23,Female,Yes,No,64,Stroke,5.9,38.1,1
+25,Male,Yes,Yes,58,Heart Attack,4.8,42.1,1
+70,Male,Yes,No,20,Trauma,9.2,17.1,0
+69,Female,No,No,27,Trauma,5.8,17.0,1
+32,Male,Yes,No,44,Trauma,7.2,6.0,0
+24,Female,Yes,No,28,Heart Attack,7.6,26.5,1
+37,Female,Yes,Yes,46,Heart Attack,4.9,40.4,0
+32,Male,No,Yes,26,Trauma,6.8,12.3,1
+38,Male,No,No,47,Trauma,5.6,44.0,1
+43,Female,No,No,18,Stroke,8.3,20.9,0
+18,Female,Yes,Yes,43,Heart Attack,4.9,1.8,0
+73,Male,No,Yes,53,Heart Attack,0.6,25.9,1
+38,Female,No,Yes,39,Trauma,9.4,42.2,0
+41,Male,Yes,Yes,63,Stroke,4.0,14.7,1
+63,Male,No,Yes,32,Trauma,1.7,20.2,0
+40,Female,No,Yes,64,Trauma,3.3,34.5,0
+43,Female,No,No,65,Stroke,8.6,46.7,0
+48,Male,Yes,No,49,Heart Attack,10.0,7.1,0
+46,Female,Yes,No,37,Stroke,9.7,15.4,1
+31,Female,No,Yes,48,Stroke,6.6,3.3,0
+33,Female,Yes,Yes,71,Trauma,2.1,5.1,0
+28,Male,No,Yes,34,Trauma,2.4,23.6,0
+68,Female,No,Yes,30,Trauma,4.9,21.8,0
+69,Female,Yes,Yes,53,Heart Attack,0.8,10.0,0
+36,Female,Yes,No,75,Stroke,1.3,9.5,1
+69,Male,Yes,No,77,Trauma,2.9,32.9,1
+46,Female,No,No,39,Heart Attack,1.5,21.0,1
+23,Female,No,No,46,Trauma,2.7,28.6,0
+65,Male,Yes,No,44,Heart Attack,7.8,5.0,0
+60,Male,No,Yes,32,Heart Attack,8.3,24.9,1
+33,Male,Yes,Yes,66,Heart Attack,9.3,15.6,0
+69,Male,Yes,Yes,35,Stroke,7.7,46.5,1
+24,Female,Yes,No,41,Stroke,1.3,10.3,0
+19,Female,No,Yes,40,Stroke,0.5,20.9,1
+73,Male,No,No,63,Stroke,3.9,15.7,1
+18,Male,Yes,Yes,26,Stroke,2.3,8.5,0
+48,Male,No,Yes,31,Trauma,7.4,10.1,0
+30,Male,Yes,Yes,52,Heart Attack,2.1,44.8,1
+72,Female,Yes,No,51,Stroke,8.5,2.3,0
+56,Female,Yes,No,37,Stroke,5.9,36.6,0
+63,Female,No,No,20,Heart Attack,6.7,40.9,0
+44,Male,Yes,Yes,50,Stroke,8.2,37.0,0
+23,Male,Yes,Yes,45,Stroke,1.6,3.9,1
+50,Female,Yes,No,23,Stroke,3.6,5.9,0
+47,Female,No,No,35,Heart Attack,2.0,40.2,0
+68,Male,Yes,No,28,Heart Attack,3.3,20.1,1
+61,Male,Yes,No,40,Trauma,8.2,27.0,1
+18,Female,Yes,No,60,Heart Attack,0.6,35.9,1
+73,Male,No,Yes,56,Trauma,2.0,13.8,1
+64,Male,Yes,No,18,Trauma,9.1,14.0,1
+43,Female,Yes,No,31,Trauma,3.5,47.3,1
+30,Female,Yes,Yes,60,Stroke,3.2,28.9,1
+71,Male,No,No,28,Trauma,7.2,30.9,0
+72,Male,No,No,21,Trauma,7.1,18.2,1
+47,Female,Yes,Yes,61,Heart Attack,4.4,12.4,0
+24,Female,Yes,Yes,50,Heart Attack,6.4,22.1,0
+31,Male,No,No,19,Stroke,4.3,36.4,0
+25,Male,No,No,18,Stroke,7.8,35.2,1
+60,Female,Yes,No,70,Stroke,9.7,1.5,0
+22,Male,No,Yes,33,Stroke,0.2,7.9,1
+40,Male,No,No,49,Trauma,6.3,41.2,0
+62,Female,No,No,43,Trauma,5.9,7.9,1
+71,Female,Yes,No,67,Stroke,4.6,13.8,0
+24,Male,No,No,42,Stroke,4.4,34.5,1
+71,Female,No,No,75,Trauma,8.7,22.0,0
+37,Female,Yes,Yes,70,Stroke,5.8,2.0,1
+62,Male,Yes,Yes,54,Trauma,7.6,16.9,1
+75,Female,No,Yes,18,Trauma,8.1,1.0,0
+20,Female,No,No,79,Heart Attack,4.2,15.0,1
+43,Female,No,Yes,28,Trauma,5.8,35.3,0
+56,Female,Yes,Yes,29,Trauma,1.8,17.2,0
+43,Male,No,Yes,47,Heart Attack,6.0,14.3,0
+61,Female,No,Yes,28,Stroke,1.2,25.2,0
+61,Male,Yes,No,34,Trauma,7.4,9.0,0
+37,Male,No,Yes,66,Stroke,0.4,0.4,0
+24,Female,Yes,No,27,Heart Attack,5.9,30.7,0
+55,Female,Yes,No,77,Heart Attack,6.2,34.2,1
+41,Female,Yes,No,40,Heart Attack,3.0,44.9,0
+49,Female,No,No,68,Trauma,9.3,33.7,1
+34,Male,No,Yes,60,Heart Attack,0.0,20.5,1
+19,Male,No,Yes,57,Trauma,0.9,17.4,1
+61,Female,Yes,Yes,49,Heart Attack,9.6,11.4,1
+55,Female,No,No,68,Trauma,2.6,24.6,1
+28,Male,Yes,Yes,64,Trauma,9.0,16.7,0
+65,Female,No,Yes,33,Stroke,8.9,19.4,1
+45,Female,No,Yes,56,Stroke,3.7,17.4,1
+74,Female,No,Yes,63,Stroke,3.7,16.9,1
+41,Female,Yes,No,61,Trauma,9.6,29.1,1
+68,Female,Yes,No,45,Heart Attack,4.0,0.6,0
+59,Female,No,Yes,74,Heart Attack,2.0,41.0,0
+53,Female,Yes,No,35,Stroke,3.0,21.8,1
+56,Female,No,No,18,Trauma,7.3,16.8,0
+50,Female,No,No,37,Stroke,8.7,4.9,1
+36,Female,No,No,40,Heart Attack,2.7,22.9,0
+66,Female,No,No,37,Stroke,1.1,16.9,0
+29,Male,Yes,Yes,80,Heart Attack,9.9,43.4,1
+72,Male,No,No,44,Heart Attack,3.2,21.2,1
+18,Female,No,Yes,22,Stroke,9.0,21.2,1
+63,Female,No,Yes,32,Stroke,6.8,0.1,0
+37,Female,Yes,Yes,70,Heart Attack,0.3,2.4,0
+66,Female,Yes,Yes,55,Stroke,5.8,28.6,0
+63,Male,Yes,Yes,34,Heart Attack,2.1,41.4,0
+55,Male,Yes,No,46,Heart Attack,5.0,2.5,0
+19,Male,Yes,Yes,29,Heart Attack,2.4,31.0,1
+52,Female,Yes,Yes,62,Trauma,9.2,35.3,1
+71,Female,No,Yes,80,Stroke,3.3,8.3,1
+51,Female,No,Yes,43,Stroke,1.5,18.1,1
+41,Female,Yes,No,52,Heart Attack,9.9,42.2,1
+33,Female,Yes,No,74,Heart Attack,3.7,29.5,0
+66,Female,No,No,35,Heart Attack,0.9,45.5,1
+43,Female,Yes,Yes,75,Trauma,2.2,46.1,1
+67,Male,Yes,Yes,28,Trauma,2.7,28.5,0
+44,Male,No,Yes,68,Trauma,3.6,30.0,0
+33,Female,Yes,No,34,Heart Attack,0.8,20.3,0
+29,Female,Yes,Yes,73,Heart Attack,1.1,30.1,0
+35,Female,No,No,51,Stroke,6.6,26.8,0
+21,Male,No,Yes,18,Stroke,9.5,36.6,1
+74,Male,No,No,58,Trauma,9.5,15.9,0
+74,Female,No,Yes,42,Stroke,9.6,47.9,1
+22,Male,No,No,62,Stroke,3.7,31.1,0
+23,Male,No,Yes,61,Stroke,7.9,22.6,1
+74,Female,No,Yes,75,Heart Attack,7.8,13.9,1
+57,Male,Yes,Yes,46,Trauma,1.4,4.1,0
+24,Female,No,No,25,Stroke,9.8,30.3,0
+37,Male,No,No,29,Heart Attack,0.4,33.0,0
+61,Male,Yes,No,26,Trauma,7.2,36.9,1
+50,Male,No,No,29,Trauma,2.5,4.6,0
+61,Male,Yes,No,34,Trauma,3.8,41.7,1
+55,Male,Yes,Yes,65,Stroke,8.3,17.7,0
+72,Male,No,Yes,59,Stroke,3.5,9.6,0
+73,Male,Yes,Yes,50,Trauma,8.4,20.9,1
+40,Male,Yes,No,25,Stroke,7.8,0.8,0
+62,Male,No,No,69,Trauma,0.1,3.8,0
+49,Female,Yes,Yes,34,Trauma,2.0,28.8,1
+18,Male,No,Yes,75,Stroke,2.7,38.3,0
+64,Male,No,Yes,65,Stroke,1.8,23.0,1
+34,Male,Yes,Yes,23,Trauma,0.7,31.0,0
+30,Male,No,No,29,Stroke,6.0,5.6,1
+68,Female,Yes,Yes,20,Trauma,1.7,3.1,0
+20,Female,Yes,No,77,Trauma,1.4,28.0,0
+55,Male,No,Yes,58,Trauma,1.2,37.8,1
+21,Male,No,Yes,62,Stroke,1.0,17.0,0
+34,Female,No,Yes,74,Trauma,7.4,12.8,1
+51,Male,Yes,Yes,38,Stroke,4.3,7.9,0
+59,Male,Yes,No,51,Heart Attack,1.5,5.4,1
+65,Female,Yes,Yes,73,Stroke,1.7,10.9,1
+50,Male,Yes,Yes,71,Heart Attack,4.1,18.4,1
+61,Male,Yes,Yes,51,Heart Attack,4.8,19.4,0
+45,Male,Yes,Yes,38,Heart Attack,5.1,1.6,1
+31,Female,Yes,No,55,Stroke,9.8,41.3,1
+56,Male,No,No,18,Heart Attack,8.9,39.7,1
+53,Male,No,No,52,Trauma,7.8,47.2,1
+20,Male,Yes,No,64,Heart Attack,0.4,33.8,0
+34,Male,No,No,60,Heart Attack,5.4,5.3,0
+18,Male,No,No,44,Stroke,5.3,21.3,1
+73,Female,No,Yes,33,Heart Attack,2.4,45.1,1
+29,Female,Yes,No,44,Trauma,2.4,44.8,1
+28,Female,Yes,Yes,53,Trauma,5.2,10.0,1
+67,Male,Yes,No,52,Heart Attack,5.9,32.8,1
+70,Female,No,No,50,Heart Attack,7.7,6.6,1
+35,Male,Yes,No,50,Trauma,2.4,32.1,1
+61,Female,No,No,57,Trauma,1.1,16.3,0
+45,Male,Yes,Yes,32,Trauma,4.5,22.3,0
+52,Female,Yes,Yes,80,Stroke,7.9,34.0,0
+63,Female,No,Yes,30,Stroke,6.8,23.0,1
+46,Female,Yes,Yes,33,Heart Attack,10.0,15.1,1
+62,Female,No,No,31,Stroke,1.4,1.7,0
+68,Female,No,Yes,67,Stroke,0.1,13.4,0
+73,Female,Yes,Yes,22,Heart Attack,1.4,14.4,0
+22,Male,No,Yes,22,Trauma,3.8,4.7,1
+40,Male,No,Yes,41,Trauma,2.0,10.9,0
+29,Female,Yes,Yes,26,Trauma,8.0,41.2,1
+42,Male,Yes,Yes,24,Stroke,5.5,14.4,1
+61,Female,No,Yes,63,Trauma,0.8,36.8,1
+75,Female,Yes,No,79,Heart Attack,2.6,29.5,1
+75,Male,No,No,78,Heart Attack,9.3,47.1,0
+43,Male,No,No,80,Stroke,4.1,40.3,0
+65,Female,Yes,No,59,Heart Attack,5.3,47.8,1
+42,Female,Yes,No,78,Heart Attack,6.2,18.4,0
+47,Male,No,Yes,59,Trauma,2.6,20.3,1
+71,Female,No,Yes,66,Trauma,8.7,31.8,1
+36,Female,Yes,No,75,Trauma,5.4,43.7,1
+23,Male,No,Yes,48,Trauma,5.0,0.6,0
+30,Male,No,Yes,77,Stroke,7.7,23.7,1
+28,Female,No,No,75,Stroke,10.0,9.7,0
+54,Male,Yes,No,36,Heart Attack,1.6,27.8,1
+30,Female,Yes,Yes,53,Trauma,1.3,5.4,1
+21,Female,No,Yes,49,Heart Attack,3.8,19.4,0
+65,Female,Yes,No,80,Heart Attack,5.5,9.8,1
+63,Male,No,Yes,71,Heart Attack,9.3,42.3,0
+48,Male,No,No,42,Trauma,2.6,31.2,0
+25,Male,No,No,22,Trauma,4.9,26.2,0
+55,Male,Yes,Yes,37,Heart Attack,9.6,42.8,1
+22,Female,No,No,63,Heart Attack,5.4,45.9,1
+27,Female,Yes,No,47,Trauma,2.2,27.2,1
+73,Female,No,No,22,Stroke,0.8,37.5,0
+18,Male,Yes,No,41,Heart Attack,4.0,19.0,1
+47,Male,Yes,No,21,Trauma,7.1,44.0,1
+35,Female,Yes,Yes,33,Stroke,1.5,39.3,1
+61,Male,Yes,No,37,Stroke,5.1,25.6,0
+69,Male,Yes,No,42,Trauma,7.9,29.9,0
+58,Female,No,No,40,Heart Attack,8.4,21.5,0
+21,Female,Yes,Yes,27,Stroke,7.7,33.0,0
+59,Male,No,No,29,Stroke,3.1,0.5,1
+55,Male,No,No,57,Trauma,7.3,28.4,1
+20,Female,Yes,Yes,46,Heart Attack,6.3,11.9,1
+38,Female,No,No,63,Trauma,4.9,13.7,0
+40,Female,Yes,Yes,72,Trauma,8.9,18.2,1
+45,Male,Yes,No,43,Heart Attack,6.4,39.0,1
+29,Male,Yes,No,52,Stroke,9.4,20.3,1
+67,Female,Yes,Yes,73,Stroke,9.6,20.5,0
+71,Female,Yes,No,63,Heart Attack,8.6,32.5,1
+69,Female,No,No,36,Heart Attack,8.3,13.2,1
+32,Male,Yes,Yes,50,Heart Attack,9.1,28.9,1
+69,Male,No,Yes,60,Heart Attack,5.9,39.6,0
+42,Female,Yes,Yes,36,Trauma,7.7,24.1,0
+74,Female,Yes,No,25,Heart Attack,4.8,46.4,1
+74,Female,Yes,Yes,18,Trauma,9.9,36.3,0
+61,Male,Yes,No,29,Stroke,8.5,45.8,0
+30,Female,No,Yes,75,Stroke,6.2,33.5,0
+61,Female,No,No,34,Stroke,2.7,10.0,0
+35,Male,No,Yes,74,Trauma,3.0,28.0,0
+38,Female,No,Yes,46,Heart Attack,1.1,8.5,0
+63,Male,Yes,No,32,Trauma,5.0,32.1,0
+55,Female,No,Yes,64,Stroke,7.7,27.0,1
+21,Male,No,No,72,Stroke,4.8,40.0,1
+48,Male,Yes,Yes,19,Trauma,9.0,8.0,1
+68,Male,No,No,71,Stroke,6.4,8.9,1
+32,Female,No,Yes,26,Trauma,6.2,34.5,0
+31,Female,No,Yes,59,Stroke,3.7,18.5,1
+58,Female,No,Yes,56,Heart Attack,1.3,7.8,1
+51,Male,Yes,Yes,57,Heart Attack,4.5,27.7,1
+20,Male,No,Yes,56,Stroke,7.2,22.2,1
+47,Male,Yes,No,72,Heart Attack,1.4,8.1,0
+43,Female,No,No,30,Trauma,5.5,9.2,0
+66,Female,No,Yes,71,Trauma,4.1,42.1,0
+24,Male,Yes,Yes,39,Stroke,7.3,16.9,1
+65,Female,No,No,78,Heart Attack,3.4,7.9,1
+43,Female,No,Yes,71,Trauma,2.0,33.9,0
+66,Male,No,Yes,72,Trauma,7.7,27.4,1
+18,Male,Yes,No,64,Stroke,3.9,7.6,0
+68,Female,No,Yes,60,Trauma,9.1,28.2,1
+68,Male,Yes,Yes,29,Stroke,6.1,2.5,0
+66,Female,No,No,58,Stroke,6.7,25.9,0
+38,Male,No,Yes,37,Trauma,6.8,0.1,1
+49,Female,No,Yes,28,Heart Attack,0.3,46.4,1
+64,Male,No,No,74,Trauma,7.5,7.2,0
+66,Female,Yes,No,57,Trauma,2.4,2.4,0
+55,Female,Yes,Yes,30,Heart Attack,2.5,13.9,0
+18,Female,Yes,Yes,47,Heart Attack,9.6,31.6,0
+33,Female,Yes,No,78,Stroke,1.9,6.4,1
+45,Male,No,No,45,Heart Attack,5.0,18.0,1
+62,Female,Yes,Yes,48,Heart Attack,5.4,2.9,1
+63,Female,No,No,75,Trauma,8.5,11.4,1
+72,Male,No,No,63,Trauma,5.9,24.6,1
+43,Female,Yes,Yes,50,Trauma,1.7,1.5,1
+58,Male,Yes,No,20,Trauma,4.0,0.4,0
+59,Female,Yes,No,28,Heart Attack,8.3,43.4,0
+67,Male,No,No,75,Heart Attack,7.8,35.2,1
+49,Male,No,Yes,75,Stroke,6.2,19.7,0
+57,Male,Yes,Yes,44,Heart Attack,4.6,14.5,1
+52,Male,No,Yes,79,Trauma,2.4,8.9,1
+61,Female,No,Yes,51,Stroke,6.5,5.9,0
+60,Male,No,No,59,Heart Attack,6.6,21.4,1
+53,Female,No,Yes,26,Stroke,4.7,22.0,1
+43,Male,No,No,68,Stroke,0.6,40.9,1
+34,Female,No,No,56,Stroke,1.5,17.3,1
+43,Female,Yes,No,74,Stroke,2.5,31.0,1
+40,Female,No,No,61,Stroke,9.8,37.7,1
+44,Female,Yes,No,49,Trauma,5.8,32.9,1
+64,Female,Yes,Yes,80,Trauma,6.4,32.0,1
+28,Male,Yes,Yes,36,Stroke,8.9,44.2,0
+25,Male,No,No,62,Heart Attack,5.2,19.2,1
+65,Female,No,Yes,77,Heart Attack,0.8,39.8,1
+51,Female,Yes,Yes,61,Trauma,2.3,2.6,1
+67,Male,Yes,No,57,Trauma,9.8,19.5,1
+22,Female,Yes,Yes,34,Heart Attack,6.8,5.6,0
+73,Male,Yes,Yes,31,Stroke,3.3,22.1,1
+56,Female,No,No,23,Stroke,7.0,18.1,1
+20,Female,Yes,No,43,Stroke,6.1,7.1,0
+74,Male,Yes,No,64,Stroke,2.8,31.7,1
+23,Female,Yes,Yes,38,Stroke,5.8,9.7,0
+57,Female,No,No,27,Trauma,6.5,4.3,1
+38,Female,Yes,No,73,Heart Attack,6.6,18.2,1
+64,Female,No,No,59,Trauma,6.4,35.2,1
+41,Female,Yes,No,50,Trauma,2.4,19.8,0
+26,Male,Yes,No,37,Heart Attack,9.4,47.3,1
+67,Male,No,Yes,72,Heart Attack,7.2,22.7,1
+74,Male,No,No,76,Trauma,7.8,38.9,0
+69,Female,Yes,No,20,Trauma,3.4,39.8,0
+19,Male,No,No,19,Heart Attack,3.8,35.4,1
+32,Female,Yes,Yes,24,Heart Attack,0.3,14.0,1
+19,Male,No,Yes,61,Heart Attack,1.0,4.5,0
+25,Male,Yes,No,46,Heart Attack,5.1,35.6,1
+49,Female,Yes,No,42,Trauma,7.9,0.7,1
+28,Female,Yes,Yes,74,Heart Attack,7.0,3.0,0
+68,Male,Yes,No,49,Stroke,8.3,44.5,0
+34,Male,Yes,Yes,45,Stroke,1.1,16.3,1
+24,Female,No,No,46,Heart Attack,6.2,35.3,0
+67,Female,Yes,Yes,69,Heart Attack,4.6,9.2,0
+28,Female,Yes,Yes,42,Stroke,9.7,37.2,1
+32,Female,Yes,No,58,Trauma,8.0,19.2,1
+45,Male,Yes,No,59,Trauma,4.5,35.3,0
+38,Female,No,Yes,28,Trauma,2.6,35.0,1
+24,Female,Yes,No,70,Trauma,6.2,3.4,0
+69,Male,No,Yes,58,Stroke,8.6,43.0,1
+53,Female,Yes,Yes,43,Heart Attack,3.9,18.2,1
+55,Female,Yes,Yes,62,Stroke,7.0,15.3,1
+63,Female,Yes,Yes,29,Heart Attack,8.6,14.2,0
+45,Male,Yes,Yes,74,Stroke,2.7,31.2,0
+67,Male,Yes,Yes,43,Stroke,6.2,33.8,1
+68,Male,No,No,40,Heart Attack,3.4,41.1,1
+45,Male,Yes,No,76,Heart Attack,6.1,3.0,0
+67,Male,Yes,No,23,Heart Attack,5.5,33.7,0
+56,Male,Yes,No,38,Heart Attack,7.5,24.3,0
+48,Female,No,No,18,Heart Attack,4.4,17.7,0
+35,Male,No,Yes,74,Heart Attack,9.0,23.5,0
+41,Female,No,No,33,Trauma,4.1,42.3,1
+65,Female,Yes,Yes,74,Trauma,4.3,28.2,1
+26,Male,No,Yes,29,Heart Attack,5.7,39.2,0
+60,Male,Yes,No,71,Heart Attack,6.2,3.1,0
+28,Female,No,Yes,59,Stroke,3.5,17.3,0
+60,Female,Yes,Yes,67,Stroke,0.9,24.2,0
+68,Female,Yes,No,45,Trauma,9.1,32.1,1
+60,Female,Yes,Yes,25,Stroke,9.3,0.5,0
+22,Male,Yes,No,70,Heart Attack,1.6,35.8,0
+42,Female,Yes,No,79,Trauma,2.2,22.2,0
+53,Female,Yes,Yes,58,Trauma,6.2,33.0,0
+48,Male,Yes,No,21,Heart Attack,9.3,19.0,0
+33,Female,Yes,Yes,71,Trauma,5.7,31.8,1
+40,Female,No,No,24,Trauma,3.6,10.1,1
+39,Male,Yes,Yes,30,Heart Attack,0.3,5.4,0
+65,Male,No,Yes,70,Trauma,2.4,26.0,1
+75,Male,Yes,Yes,75,Trauma,4.8,47.5,0
+54,Male,No,No,42,Trauma,6.2,30.4,1
+48,Female,No,No,29,Stroke,1.2,44.1,1
+37,Male,No,Yes,62,Heart Attack,2.3,4.4,1
+55,Male,No,Yes,58,Heart Attack,7.5,15.2,1
+29,Male,Yes,No,20,Heart Attack,1.0,20.2,0
+65,Male,No,Yes,71,Stroke,8.9,15.4,1
+68,Female,No,Yes,74,Trauma,7.7,9.6,1
+38,Female,Yes,No,50,Heart Attack,4.0,3.3,1
+74,Male,No,No,64,Stroke,9.1,14.8,1
+34,Male,No,Yes,63,Heart Attack,5.0,42.8,1
+48,Male,Yes,Yes,31,Stroke,9.7,18.1,1
+68,Female,Yes,No,59,Trauma,3.6,37.9,1
+74,Female,No,No,20,Stroke,5.2,25.0,1
+26,Female,No,No,69,Stroke,9.5,29.8,1
+56,Female,No,Yes,24,Heart Attack,6.2,36.3,0
+47,Male,Yes,Yes,78,Stroke,5.1,5.6,0
+42,Female,Yes,Yes,64,Heart Attack,1.9,41.9,1
+59,Male,Yes,Yes,36,Stroke,6.5,25.9,0
+69,Male,No,Yes,78,Heart Attack,2.5,29.0,0
+44,Male,Yes,No,56,Stroke,10.0,26.4,0
+48,Male,Yes,Yes,47,Heart Attack,0.8,2.5,0
+52,Female,No,Yes,62,Stroke,8.9,19.0,0
+23,Male,Yes,Yes,21,Stroke,5.5,21.2,0
+58,Female,Yes,Yes,56,Heart Attack,3.8,16.6,1
+51,Male,No,Yes,34,Trauma,1.9,26.2,0
+60,Male,No,Yes,25,Heart Attack,5.0,10.3,0
+61,Female,Yes,Yes,52,Stroke,9.5,18.1,0
+30,Female,No,Yes,75,Stroke,5.0,2.7,0
+52,Female,Yes,Yes,39,Trauma,3.5,23.6,1
+53,Female,Yes,No,59,Heart Attack,2.9,18.9,1
+66,Female,Yes,No,70,Trauma,3.2,40.3,1
+29,Female,No,No,29,Trauma,1.4,31.3,0
+67,Male,Yes,No,27,Stroke,1.0,6.0,0
+23,Male,No,Yes,36,Heart Attack,9.7,25.0,0
+61,Female,Yes,No,75,Trauma,6.0,1.5,1
+21,Male,Yes,No,47,Heart Attack,9.2,17.9,1
+18,Male,Yes,No,44,Trauma,1.8,5.0,1
+71,Female,Yes,No,24,Stroke,8.4,5.4,1
+43,Female,No,Yes,43,Stroke,8.5,4.0,0
+56,Female,Yes,Yes,38,Heart Attack,3.3,34.6,0
+28,Male,Yes,No,45,Trauma,4.8,11.0,1
+74,Female,Yes,Yes,65,Heart Attack,6.4,32.4,1
+33,Male,No,Yes,67,Heart Attack,9.9,15.7,1
+39,Male,Yes,Yes,64,Stroke,4.9,33.9,1
+50,Male,Yes,Yes,30,Stroke,2.5,20.4,0
+19,Male,No,No,70,Heart Attack,1.0,26.5,1
+43,Female,No,No,47,Heart Attack,0.4,14.0,1
+50,Female,Yes,No,57,Heart Attack,5.3,21.0,1
+59,Male,Yes,No,65,Stroke,5.8,23.1,0
+47,Male,Yes,No,37,Trauma,4.5,31.3,1
+54,Male,No,Yes,39,Stroke,0.0,18.4,1
+74,Male,Yes,Yes,46,Trauma,3.1,15.9,0
+47,Male,No,No,79,Trauma,2.6,10.1,0
+34,Male,No,Yes,19,Trauma,8.7,42.4,0
+22,Male,No,No,32,Stroke,4.6,11.2,0
+50,Female,Yes,No,77,Stroke,2.4,37.1,0
+53,Male,No,No,71,Heart Attack,8.3,13.6,0
+53,Female,Yes,Yes,63,Stroke,9.1,15.3,1
+44,Female,Yes,Yes,78,Heart Attack,2.4,21.5,1
+63,Male,Yes,No,24,Stroke,1.4,31.2,1
+70,Female,No,Yes,41,Heart Attack,3.0,38.1,0
+21,Female,Yes,Yes,74,Heart Attack,0.0,11.0,1
+40,Female,No,No,32,Stroke,6.0,4.6,1
+42,Female,No,No,44,Stroke,4.0,44.9,1
+69,Female,Yes,No,73,Heart Attack,5.3,12.3,1
+46,Male,Yes,No,30,Stroke,2.7,28.5,1
+33,Female,Yes,Yes,39,Trauma,1.5,35.7,0
+62,Male,No,No,21,Trauma,6.0,8.5,0
+74,Male,Yes,Yes,75,Stroke,7.3,19.1,0
+43,Male,No,Yes,67,Heart Attack,0.3,34.0,1
+64,Male,Yes,No,29,Trauma,3.1,40.9,1
+70,Female,Yes,No,63,Stroke,0.4,38.6,1
+27,Male,Yes,Yes,37,Heart Attack,6.8,33.2,1
+60,Female,No,No,34,Trauma,5.8,30.9,1
+73,Male,No,No,68,Stroke,0.8,19.6,0
+33,Male,No,Yes,34,Trauma,0.2,36.0,0
+73,Female,Yes,Yes,25,Trauma,4.2,47.8,0
+73,Female,No,Yes,59,Stroke,6.1,31.1,1
+66,Male,No,No,73,Heart Attack,3.8,44.4,1
+50,Male,Yes,No,34,Trauma,0.7,6.1,0
+60,Male,No,No,48,Trauma,8.7,42.2,0
+59,Female,Yes,Yes,25,Heart Attack,8.4,42.1,0
+44,Female,No,No,36,Trauma,1.6,6.7,0
+51,Female,Yes,No,63,Trauma,9.6,5.9,1
+53,Male,No,No,65,Trauma,4.2,41.5,0
+48,Male,No,No,48,Heart Attack,7.4,22.5,0
+29,Male,No,No,52,Trauma,0.4,10.6,1
+39,Female,Yes,No,18,Stroke,0.6,33.1,0
+69,Female,Yes,Yes,33,Stroke,2.2,9.4,1
+72,Female,No,Yes,63,Heart Attack,2.8,47.2,1
+21,Female,No,Yes,77,Stroke,4.2,14.4,1
+74,Female,Yes,Yes,79,Trauma,2.2,43.8,0
+59,Female,No,No,25,Stroke,3.6,46.5,1
+29,Male,Yes,Yes,29,Stroke,3.4,40.2,1
+62,Female,Yes,No,64,Stroke,3.7,40.4,0
+22,Male,No,Yes,28,Trauma,2.7,39.1,1
+46,Male,No,Yes,49,Heart Attack,5.2,24.3,1
+38,Female,No,Yes,48,Stroke,9.4,4.8,0
+26,Male,Yes,Yes,22,Heart Attack,4.3,28.6,0
+73,Female,Yes,No,52,Heart Attack,5.5,16.1,1
+61,Male,Yes,Yes,58,Heart Attack,6.6,47.4,1
+35,Male,Yes,Yes,38,Heart Attack,2.5,32.6,0
+73,Female,Yes,No,49,Heart Attack,1.2,18.7,0
+32,Male,No,Yes,39,Trauma,2.9,11.3,1
+58,Female,Yes,No,24,Trauma,9.5,44.0,0
+31,Female,No,No,18,Trauma,4.9,26.7,1
+31,Male,No,No,75,Trauma,6.9,30.2,0
+49,Female,No,No,59,Stroke,7.6,12.7,1
+65,Male,Yes,No,56,Heart Attack,7.6,47.4,0
+24,Female,Yes,No,67,Stroke,2.9,29.4,1
+74,Female,Yes,Yes,66,Trauma,5.5,14.1,0
+43,Male,Yes,No,46,Heart Attack,4.1,8.0,1
+61,Female,Yes,No,45,Stroke,9.3,40.3,1
+40,Female,No,Yes,35,Heart Attack,3.5,30.1,1
+70,Male,Yes,Yes,24,Stroke,8.4,42.5,0
+56,Male,No,No,73,Stroke,5.5,37.5,1
+47,Male,No,Yes,78,Trauma,0.7,21.6,1
+32,Male,Yes,No,26,Trauma,1.0,26.4,1
+61,Male,No,Yes,45,Heart Attack,1.5,47.5,1
+66,Male,Yes,Yes,41,Stroke,3.6,31.4,1
+27,Male,Yes,Yes,29,Trauma,0.8,30.6,1
+32,Female,Yes,No,23,Trauma,8.5,32.1,0
+21,Male,No,Yes,52,Stroke,3.9,36.3,0
+74,Male,Yes,No,30,Stroke,8.1,16.1,0
+57,Male,No,No,55,Heart Attack,2.7,36.7,0
+46,Female,Yes,No,73,Stroke,8.6,9.2,1
+54,Male,No,No,71,Stroke,7.4,12.4,1
+24,Female,No,No,58,Trauma,6.2,25.9,1
+25,Female,Yes,Yes,44,Heart Attack,3.5,18.9,0
+60,Male,Yes,No,26,Stroke,2.6,14.0,1
+27,Male,Yes,Yes,45,Heart Attack,3.3,31.2,0
+43,Male,Yes,No,33,Trauma,4.1,35.3,0
+66,Female,Yes,No,30,Heart Attack,5.3,17.1,1
+37,Female,Yes,No,43,Heart Attack,1.8,28.2,1
+32,Male,No,Yes,51,Trauma,8.4,47.8,1
+53,Male,Yes,Yes,57,Stroke,4.7,38.6,1
+57,Female,No,Yes,33,Stroke,5.4,21.9,1
+43,Female,No,No,50,Stroke,8.5,39.2,0
+60,Female,Yes,Yes,32,Trauma,5.9,26.9,0
+58,Female,No,Yes,45,Trauma,0.5,38.9,0
+45,Male,Yes,No,76,Stroke,3.1,0.8,1
+72,Female,Yes,Yes,78,Stroke,6.1,35.9,1
+27,Female,No,Yes,36,Heart Attack,6.7,24.6,0
+23,Female,No,No,23,Trauma,2.8,35.6,1
+69,Male,No,No,76,Trauma,5.1,25.1,1
+39,Female,Yes,No,40,Stroke,1.7,35.5,0
+38,Female,Yes,No,73,Trauma,8.6,24.1,1
+29,Male,No,No,46,Trauma,0.5,19.5,1
+63,Female,No,No,75,Trauma,1.6,41.3,0
+39,Female,No,Yes,58,Stroke,7.4,44.3,1
+33,Male,No,No,34,Heart Attack,9.9,31.0,1
+67,Male,No,Yes,74,Heart Attack,1.8,10.5,0
+48,Male,Yes,Yes,43,Heart Attack,4.3,46.0,1
+21,Female,Yes,Yes,38,Stroke,6.7,17.0,1
+30,Male,Yes,Yes,61,Trauma,8.6,5.0,1
+50,Female,No,Yes,79,Trauma,6.8,18.9,0
+31,Male,No,Yes,34,Heart Attack,7.9,14.3,1
+40,Female,No,No,31,Heart Attack,4.2,38.8,1
+33,Female,No,Yes,57,Trauma,8.6,31.3,0
+44,Male,Yes,No,23,Trauma,8.9,28.1,0
+62,Female,No,No,37,Stroke,9.3,33.7,0
+39,Male,No,No,49,Heart Attack,1.9,2.2,1
+36,Female,Yes,Yes,36,Stroke,1.8,16.4,0
+44,Male,No,No,54,Trauma,0.7,30.5,0
+61,Female,Yes,Yes,47,Heart Attack,9.8,7.1,1
+33,Male,No,No,34,Stroke,0.3,5.7,1
+57,Female,No,Yes,27,Heart Attack,3.3,18.5,1
+42,Male,No,No,62,Stroke,0.9,27.4,0
+47,Female,No,Yes,59,Trauma,9.4,20.7,0
+52,Male,Yes,Yes,79,Heart Attack,5.7,35.2,0
+75,Female,No,No,60,Trauma,8.9,11.1,0
+75,Female,No,Yes,44,Heart Attack,3.8,15.1,1
+21,Female,Yes,Yes,28,Heart Attack,8.9,22.1,1
+64,Male,No,No,42,Stroke,1.2,8.0,0
+51,Female,Yes,No,56,Stroke,8.3,23.2,0
+18,Male,No,No,53,Trauma,6.0,1.7,0
+48,Female,Yes,Yes,38,Trauma,1.4,21.5,1
+57,Male,No,No,41,Stroke,4.3,10.5,1
+69,Female,No,Yes,23,Heart Attack,5.6,24.1,1
+74,Male,Yes,No,77,Stroke,5.8,38.9,1
+56,Male,Yes,Yes,66,Trauma,3.1,1.4,0
+53,Male,Yes,Yes,65,Stroke,7.7,40.4,0
+59,Female,Yes,Yes,46,Heart Attack,2.1,24.7,1
+40,Female,No,No,71,Stroke,7.6,31.6,1
+43,Male,Yes,Yes,75,Heart Attack,1.5,24.4,0
+59,Male,No,No,69,Heart Attack,2.6,10.9,0
+26,Female,Yes,Yes,55,Heart Attack,1.0,16.2,1
+47,Female,Yes,No,22,Trauma,2.4,46.4,1
+22,Female,No,Yes,74,Trauma,8.6,47.6,0
+43,Female,No,No,35,Trauma,5.7,5.3,0
+63,Male,Yes,No,51,Stroke,0.3,21.8,0
+24,Male,Yes,No,27,Heart Attack,2.8,8.6,0
+32,Female,Yes,No,72,Trauma,6.6,0.9,0
+49,Male,No,Yes,36,Trauma,8.6,21.6,0
+44,Female,Yes,No,66,Stroke,8.3,31.2,0
+46,Female,No,Yes,65,Heart Attack,8.4,21.8,1
+42,Male,No,Yes,77,Trauma,3.3,6.0,0
+28,Male,No,No,35,Heart Attack,3.3,7.2,1
+51,Female,Yes,Yes,44,Trauma,5.6,43.3,0
+41,Female,Yes,Yes,57,Stroke,0.6,32.2,1
+44,Male,No,No,48,Heart Attack,5.5,47.9,1
+68,Female,Yes,No,24,Trauma,6.3,7.6,0
+18,Female,Yes,No,43,Trauma,4.1,25.7,1
+45,Male,Yes,No,67,Stroke,9.1,28.4,0
+63,Female,No,No,32,Stroke,6.2,28.0,0
+23,Female,No,No,79,Trauma,0.3,5.3,0
+34,Female,Yes,Yes,38,Trauma,2.5,1.0,0
+28,Female,Yes,No,67,Stroke,9.4,17.1,1
+40,Male,No,No,50,Heart Attack,5.8,2.5,1
+75,Male,Yes,No,57,Heart Attack,3.2,37.2,0
+71,Male,Yes,Yes,71,Heart Attack,5.7,13.1,0
+33,Male,Yes,No,58,Stroke,6.2,37.1,1
+25,Female,No,Yes,44,Stroke,8.9,21.8,1
+68,Female,Yes,Yes,80,Stroke,5.0,29.7,0
+71,Female,No,Yes,63,Trauma,5.0,16.7,1
+18,Female,No,No,23,Heart Attack,7.7,5.0,0
+34,Female,Yes,Yes,24,Trauma,0.1,18.2,1
+57,Female,Yes,No,27,Stroke,3.8,29.7,1
+32,Female,Yes,Yes,39,Trauma,1.8,15.7,1
+51,Female,Yes,Yes,54,Heart Attack,8.5,12.5,0
+18,Male,Yes,Yes,65,Heart Attack,7.0,25.7,1
+25,Female,No,No,57,Heart Attack,4.5,20.6,1
+62,Male,Yes,No,23,Trauma,5.9,8.2,0
+44,Female,Yes,No,69,Trauma,8.5,47.2,0
+74,Male,Yes,No,71,Trauma,7.1,10.5,0
+36,Male,No,Yes,49,Trauma,2.8,47.0,0
+63,Female,No,Yes,41,Trauma,3.1,26.9,1
+57,Female,No,Yes,49,Stroke,7.3,34.8,0
+33,Male,Yes,Yes,50,Stroke,1.5,41.1,0
+29,Male,No,Yes,49,Trauma,5.3,18.5,0
+64,Female,No,No,49,Heart Attack,6.0,37.7,0
+29,Female,Yes,No,80,Heart Attack,4.7,25.5,0
+67,Female,No,Yes,47,Stroke,1.4,5.4,0
+69,Male,No,No,39,Heart Attack,2.8,20.0,0
+48,Female,Yes,No,37,Heart Attack,9.5,17.1,1
+50,Male,Yes,Yes,70,Stroke,4.4,5.7,0
+62,Male,No,No,27,Trauma,5.9,17.5,1
+34,Female,No,No,36,Stroke,3.7,43.3,0
+65,Male,No,No,38,Trauma,2.0,10.7,0
+23,Male,No,No,73,Trauma,9.6,28.8,0
+56,Female,No,Yes,70,Heart Attack,2.7,9.6,1
+66,Female,No,No,65,Stroke,9.7,38.1,1
+31,Male,No,No,55,Stroke,8.6,32.2,0
+18,Female,No,No,35,Heart Attack,0.6,39.9,1
+39,Male,Yes,Yes,69,Stroke,7.6,20.8,1
+51,Female,No,No,39,Heart Attack,5.1,25.0,1
+40,Male,Yes,Yes,39,Stroke,4.8,29.4,0
+38,Female,No,Yes,26,Heart Attack,7.0,4.0,0
+58,Male,No,No,67,Stroke,4.6,12.8,0
+65,Male,Yes,Yes,45,Trauma,3.7,40.1,0
+49,Male,Yes,Yes,80,Trauma,0.6,15.2,1
+23,Female,No,Yes,67,Heart Attack,3.7,15.2,1
+51,Female,Yes,No,76,Heart Attack,6.3,31.7,1
+31,Female,Yes,No,66,Stroke,7.3,41.7,1
+74,Female,No,No,44,Stroke,0.2,19.9,0
+25,Male,No,Yes,45,Trauma,9.4,23.2,1
+43,Female,Yes,No,75,Heart Attack,3.7,3.6,0
+32,Male,Yes,No,79,Heart Attack,5.9,17.6,0
+70,Female,Yes,Yes,43,Stroke,4.3,36.2,0
+62,Male,No,No,48,Trauma,6.7,26.3,1
+37,Male,No,No,52,Heart Attack,2.2,12.9,0
+34,Male,Yes,No,38,Trauma,6.1,47.6,1
+72,Female,No,Yes,57,Heart Attack,2.8,4.4,1
+68,Female,No,No,78,Heart Attack,8.7,45.1,0
+70,Male,Yes,Yes,74,Stroke,3.3,6.0,1
+71,Female,No,Yes,41,Stroke,6.1,33.3,1
+69,Female,Yes,Yes,52,Stroke,8.6,39.2,0
+26,Male,No,No,19,Stroke,2.2,43.8,0
+63,Male,No,No,19,Trauma,8.8,41.9,0
+58,Female,Yes,No,50,Trauma,9.9,42.1,0
+60,Male,No,No,51,Trauma,6.0,28.3,0
+64,Female,Yes,No,79,Trauma,8.8,1.2,1
+58,Male,No,Yes,56,Trauma,5.5,24.7,0
+57,Male,Yes,No,19,Stroke,3.4,19.7,1
+29,Male,No,No,67,Trauma,6.5,11.8,1
+30,Male,No,No,39,Stroke,5.1,0.8,1
+60,Female,Yes,Yes,61,Stroke,7.6,46.6,0
+50,Male,No,No,39,Stroke,1.6,10.4,0
+43,Female,No,Yes,35,Trauma,4.1,12.3,0
+29,Female,Yes,Yes,58,Trauma,1.7,10.1,0
+33,Female,Yes,Yes,21,Stroke,5.1,2.5,0
+51,Female,Yes,Yes,32,Stroke,9.7,13.4,1
+27,Female,Yes,Yes,68,Stroke,3.9,15.2,1
+18,Female,No,No,23,Trauma,8.4,40.7,1
+19,Female,No,Yes,47,Trauma,8.8,9.7,0
+59,Male,No,No,19,Heart Attack,2.2,25.6,0
+54,Male,Yes,Yes,64,Stroke,3.6,25.2,0
+56,Female,Yes,No,41,Stroke,2.8,5.5,0
+60,Male,No,Yes,55,Trauma,6.5,10.3,1
+23,Female,No,Yes,30,Trauma,0.4,31.9,1
+69,Female,No,No,78,Stroke,5.9,19.8,1
+57,Male,Yes,No,23,Heart Attack,1.2,2.5,1
+43,Male,No,No,50,Trauma,3.5,46.8,1
+29,Female,Yes,Yes,23,Trauma,5.8,7.0,0
+24,Male,No,No,36,Heart Attack,4.3,23.8,0
+28,Male,Yes,Yes,42,Stroke,4.7,12.2,1
+27,Female,Yes,Yes,20,Trauma,9.1,25.0,0
+58,Male,Yes,Yes,46,Trauma,0.5,5.0,1
+38,Male,No,Yes,30,Stroke,2.2,28.4,0
+51,Female,No,No,35,Trauma,8.9,25.2,1
+50,Male,No,Yes,33,Heart Attack,8.1,18.7,1
+45,Female,No,Yes,36,Stroke,6.1,22.9,1
+34,Male,No,Yes,50,Trauma,9.9,41.0,1
+46,Male,Yes,No,39,Heart Attack,3.2,37.6,1
+63,Male,Yes,No,56,Stroke,1.2,34.2,1
+46,Male,Yes,No,32,Trauma,7.9,13.9,1
+21,Male,No,Yes,70,Heart Attack,7.3,32.4,1
+32,Male,Yes,Yes,32,Trauma,8.3,17.1,1
+51,Female,Yes,No,56,Heart Attack,9.4,18.2,0
+25,Male,Yes,Yes,31,Stroke,6.6,42.7,0
+21,Female,No,Yes,35,Trauma,9.2,22.0,0
+58,Female,No,Yes,36,Trauma,6.0,22.0,0
+68,Female,No,No,72,Heart Attack,1.6,35.4,0
+41,Male,Yes,Yes,53,Stroke,2.9,43.2,1
+65,Male,Yes,No,69,Heart Attack,0.6,29.2,0
+37,Male,Yes,No,39,Trauma,9.1,37.4,1
+70,Male,No,Yes,29,Stroke,1.7,6.2,0
+45,Male,Yes,Yes,35,Heart Attack,1.5,41.5,0
+45,Male,Yes,Yes,42,Heart Attack,9.3,26.1,0
+61,Female,Yes,Yes,44,Stroke,1.5,7.3,0
+27,Female,No,Yes,69,Stroke,6.8,15.2,1
+44,Male,Yes,Yes,62,Heart Attack,7.7,28.2,0
+53,Male,Yes,No,45,Heart Attack,2.9,29.4,0
+58,Female,No,No,74,Heart Attack,0.6,33.3,0
+23,Female,No,No,73,Trauma,3.8,42.4,0
+24,Female,No,No,51,Stroke,8.6,37.9,0
+43,Female,Yes,Yes,74,Stroke,4.1,8.4,0
+40,Female,No,No,56,Heart Attack,6.4,31.4,0
+75,Female,Yes,Yes,50,Stroke,2.0,42.3,0
+72,Female,No,Yes,74,Stroke,1.8,0.0,1
+74,Female,Yes,Yes,61,Heart Attack,3.8,12.2,0
+45,Male,Yes,Yes,47,Trauma,2.9,22.7,0
+69,Male,Yes,No,58,Stroke,5.7,9.0,1
+66,Male,Yes,Yes,27,Trauma,0.4,41.7,0
+18,Female,Yes,Yes,62,Heart Attack,6.6,25.5,1
+37,Male,Yes,Yes,47,Stroke,1.4,44.6,1
+58,Female,Yes,No,31,Stroke,7.8,7.7,1
+23,Male,Yes,Yes,71,Stroke,2.6,16.7,0
+67,Female,Yes,No,20,Heart Attack,0.5,40.4,1
+31,Male,No,Yes,25,Trauma,4.7,26.0,0
+71,Female,Yes,No,39,Trauma,5.4,37.4,0
+20,Female,No,No,40,Heart Attack,9.0,14.5,0
+51,Male,Yes,Yes,75,Stroke,7.7,5.0,1
+23,Female,Yes,Yes,80,Stroke,6.7,2.5,0
+30,Male,No,No,34,Trauma,5.9,17.4,0
+54,Male,No,No,60,Stroke,0.1,3.9,1
+30,Male,Yes,Yes,18,Trauma,7.2,9.8,0
+49,Male,Yes,Yes,72,Stroke,4.5,15.1,0
+53,Female,No,No,55,Trauma,8.5,29.4,1
+20,Male,No,No,28,Heart Attack,5.9,30.6,0
+28,Male,Yes,Yes,70,Stroke,7.2,47.3,1
+21,Female,No,No,62,Trauma,0.2,26.8,0
+21,Male,No,No,69,Trauma,4.4,27.2,0
+60,Male,No,Yes,47,Trauma,6.2,22.8,1
+35,Male,No,No,62,Stroke,1.2,26.2,1
+46,Female,Yes,Yes,55,Trauma,0.1,39.4,0
+75,Female,Yes,Yes,55,Trauma,9.0,43.2,0
+45,Male,No,Yes,37,Stroke,8.0,26.3,0
+49,Female,No,No,29,Stroke,1.5,38.3,1
+19,Male,Yes,Yes,68,Heart Attack,7.1,43.3,1
+25,Male,No,No,24,Stroke,2.5,30.7,1
+31,Female,No,Yes,26,Trauma,7.6,38.2,1
+69,Female,Yes,Yes,36,Trauma,0.8,7.2,0
+53,Male,No,No,23,Stroke,2.8,4.0,0
+54,Male,Yes,Yes,78,Trauma,7.9,30.9,1
+75,Female,No,Yes,56,Stroke,0.6,6.1,1
+31,Female,Yes,Yes,63,Heart Attack,6.6,36.1,0
+54,Female,No,Yes,74,Heart Attack,6.3,20.8,0
+30,Female,Yes,Yes,64,Stroke,1.9,5.5,0
+58,Female,Yes,Yes,18,Heart Attack,3.7,31.1,0
+28,Female,No,No,26,Heart Attack,1.8,28.4,0
+42,Female,No,Yes,76,Stroke,4.7,34.4,0
+54,Male,Yes,Yes,21,Trauma,2.7,8.1,0
+22,Male,No,No,75,Stroke,6.7,22.2,0
+68,Male,Yes,No,65,Trauma,4.9,16.7,0
+31,Male,No,No,65,Heart Attack,9.7,47.3,0
+49,Female,Yes,No,72,Stroke,2.9,40.0,0
+75,Female,No,No,54,Trauma,8.8,16.7,0
+47,Male,No,No,58,Heart Attack,2.2,38.1,0
+32,Female,No,Yes,21,Stroke,7.7,1.8,0
+52,Female,No,No,23,Stroke,1.2,9.3,1
+20,Male,Yes,Yes,29,Heart Attack,7.1,41.1,1
+71,Female,Yes,No,58,Trauma,4.5,18.2,0
+41,Female,No,No,51,Trauma,9.2,36.1,1
+48,Female,Yes,No,66,Heart Attack,2.8,42.3,0
+68,Female,Yes,No,31,Heart Attack,6.3,46.4,1
+56,Male,Yes,No,58,Trauma,3.7,10.0,0
+56,Male,No,No,33,Stroke,2.5,43.8,1
+22,Female,Yes,Yes,59,Trauma,8.9,25.2,0
+71,Male,Yes,No,65,Heart Attack,8.5,40.3,0
+49,Female,No,No,26,Stroke,9.8,38.5,0
+44,Male,Yes,No,74,Trauma,10.0,25.1,0
+42,Female,Yes,No,55,Heart Attack,4.8,10.1,0
+51,Female,Yes,No,34,Heart Attack,9.8,31.7,0
+75,Female,No,No,54,Heart Attack,5.0,45.7,1
+51,Female,No,No,39,Heart Attack,1.6,5.8,0
+66,Male,No,Yes,61,Trauma,9.3,11.0,1
+63,Female,Yes,Yes,74,Stroke,5.1,29.3,0
+46,Female,Yes,Yes,36,Trauma,8.7,38.0,0
+40,Male,Yes,No,64,Stroke,8.1,24.8,0
+38,Male,Yes,No,73,Trauma,7.4,32.5,1
+32,Female,No,Yes,75,Trauma,0.4,30.5,0
+53,Female,Yes,Yes,66,Trauma,5.8,22.7,0
+27,Female,No,No,36,Trauma,4.2,16.9,1
+30,Female,No,No,38,Heart Attack,8.0,38.3,1
+37,Male,Yes,No,57,Stroke,6.5,26.1,0
+49,Female,No,Yes,20,Heart Attack,0.8,27.7,1
+45,Female,No,No,28,Stroke,6.7,18.1,0
+46,Female,No,Yes,45,Stroke,3.0,21.1,0
+63,Female,No,No,78,Trauma,0.4,20.3,1
+44,Male,No,No,19,Trauma,5.0,12.5,1
+26,Male,No,No,62,Trauma,6.9,30.5,0
+48,Male,Yes,Yes,21,Heart Attack,7.6,13.4,0
+45,Male,Yes,Yes,37,Heart Attack,5.7,34.0,0
+33,Male,Yes,Yes,78,Stroke,1.0,0.5,0
+45,Male,No,No,72,Heart Attack,3.1,8.2,0
+51,Female,No,No,26,Stroke,0.2,34.1,0
+51,Female,No,Yes,50,Heart Attack,3.3,11.7,0
+26,Male,No,No,35,Heart Attack,4.6,22.8,0
+65,Male,Yes,Yes,77,Stroke,8.5,30.0,1
+25,Female,No,Yes,77,Heart Attack,4.3,44.7,0
+30,Male,Yes,No,56,Trauma,0.6,28.6,0
+54,Male,No,Yes,32,Heart Attack,7.8,42.1,0
+26,Female,No,Yes,72,Trauma,2.7,35.5,1
+48,Male,No,Yes,48,Trauma,3.6,21.3,0
+30,Male,Yes,No,22,Trauma,2.0,24.5,1
+71,Male,Yes,Yes,60,Trauma,7.5,19.3,1
+68,Female,No,No,37,Trauma,4.8,34.9,0
+37,Female,No,No,56,Stroke,3.2,22.1,0
+35,Female,Yes,Yes,20,Heart Attack,7.5,34.4,1
+50,Female,Yes,Yes,49,Stroke,0.5,20.6,1
+36,Male,No,No,56,Stroke,3.5,5.6,1
+73,Female,Yes,Yes,40,Trauma,4.3,34.1,0
+49,Female,Yes,No,63,Stroke,1.6,9.5,1
+63,Male,No,Yes,32,Heart Attack,8.0,24.2,1
+24,Female,No,No,30,Trauma,4.3,4.6,0
+22,Male,Yes,Yes,45,Stroke,0.5,26.8,1
+48,Male,Yes,No,46,Trauma,2.8,36.9,1
+69,Female,Yes,Yes,60,Stroke,6.6,41.0,1
+70,Female,No,No,47,Trauma,1.4,23.5,0
+75,Male,Yes,Yes,18,Trauma,3.7,22.5,1
+45,Female,No,No,57,Heart Attack,0.3,9.7,0
+72,Female,Yes,Yes,54,Stroke,9.6,29.8,1
+37,Female,Yes,No,63,Trauma,8.4,28.6,1
+19,Male,Yes,No,39,Stroke,5.6,34.6,1
+67,Female,Yes,Yes,55,Stroke,5.9,47.2,1
+44,Male,No,Yes,44,Trauma,8.8,39.6,0
+21,Male,No,No,76,Trauma,0.4,38.1,1
+23,Female,No,Yes,68,Heart Attack,2.0,12.9,0
+68,Male,No,No,71,Stroke,1.4,47.0,0
+39,Female,No,Yes,66,Trauma,8.8,17.4,0
+24,Female,No,No,27,Trauma,8.5,16.4,0
+18,Male,No,Yes,80,Stroke,5.1,26.7,1
+33,Male,Yes,No,73,Heart Attack,8.3,10.6,0
+56,Male,Yes,No,42,Trauma,1.2,39.6,1
+57,Female,Yes,Yes,29,Heart Attack,6.6,26.6,1
+66,Female,Yes,Yes,32,Trauma,4.0,22.8,1
+69,Male,Yes,No,28,Trauma,6.6,10.3,1
+46,Female,No,Yes,79,Heart Attack,8.7,42.3,1
+60,Male,No,Yes,28,Heart Attack,1.5,26.1,1
+73,Male,Yes,Yes,40,Heart Attack,0.8,42.3,0
+53,Male,No,Yes,45,Stroke,2.8,35.8,1
+20,Male,No,No,24,Heart Attack,7.3,15.3,0
+56,Male,No,Yes,25,Heart Attack,5.0,7.1,1
+60,Male,No,No,80,Trauma,0.0,12.8,0
+35,Female,No,Yes,40,Stroke,9.6,34.0,1
+48,Male,Yes,No,45,Heart Attack,4.1,24.6,0
+43,Female,Yes,Yes,63,Stroke,4.9,31.9,0
+38,Male,Yes,Yes,18,Heart Attack,3.3,38.0,0
+60,Male,Yes,Yes,80,Stroke,8.1,23.0,1
+62,Female,No,Yes,25,Trauma,9.0,8.9,0
+40,Male,Yes,No,34,Heart Attack,7.0,31.0,1
+52,Female,Yes,Yes,39,Trauma,3.4,0.3,0
+28,Female,No,No,33,Heart Attack,5.4,26.3,1
+70,Female,No,No,77,Heart Attack,8.6,20.6,1
+68,Male,No,No,79,Stroke,3.6,10.8,0
+67,Female,No,Yes,40,Trauma,9.7,18.5,0
+62,Female,Yes,No,74,Stroke,7.5,7.2,0
+44,Male,No,No,71,Stroke,3.2,45.0,1
+49,Female,No,No,66,Stroke,5.1,44.2,1
+66,Female,Yes,No,56,Trauma,7.0,14.6,1
+59,Male,Yes,Yes,21,Heart Attack,9.2,32.9,0
+26,Male,No,No,43,Heart Attack,7.6,40.4,0
+19,Male,Yes,No,65,Trauma,6.8,38.5,1
+71,Male,No,Yes,44,Stroke,1.2,44.5,0
+23,Female,No,Yes,43,Heart Attack,2.2,42.9,1
+27,Male,No,Yes,37,Heart Attack,3.2,21.9,0
+49,Female,No,Yes,21,Heart Attack,5.0,23.5,0
+58,Male,No,No,78,Trauma,8.4,27.3,1
+40,Female,No,No,29,Stroke,9.0,16.8,0
+37,Male,Yes,Yes,32,Trauma,7.7,28.3,1
+18,Female,No,Yes,18,Heart Attack,1.8,4.5,1
+30,Male,No,No,71,Stroke,5.4,11.1,0
+32,Female,No,Yes,58,Stroke,7.0,6.0,0
+33,Male,No,No,54,Heart Attack,9.4,8.4,0
+47,Male,Yes,Yes,75,Heart Attack,6.0,7.3,1
+36,Male,Yes,No,53,Trauma,0.9,9.3,1
+48,Female,No,No,43,Stroke,4.1,9.0,1
+50,Female,No,Yes,30,Stroke,0.4,33.9,0
+31,Male,No,Yes,69,Heart Attack,7.6,37.8,0
+55,Female,Yes,Yes,53,Trauma,2.4,22.4,1
+54,Male,No,No,74,Stroke,5.8,5.0,1
+47,Female,Yes,No,50,Heart Attack,5.2,13.4,1
+49,Male,No,Yes,67,Trauma,0.6,39.1,1
+36,Female,No,No,22,Heart Attack,6.0,34.4,1
+58,Female,No,Yes,64,Trauma,7.6,24.3,0
+75,Female,Yes,No,76,Stroke,1.9,34.6,0
+66,Male,Yes,Yes,47,Stroke,7.2,36.0,1
+64,Male,Yes,No,66,Trauma,6.8,37.0,0
+62,Male,Yes,No,64,Heart Attack,10.0,18.0,1
+74,Female,Yes,Yes,50,Trauma,0.5,14.3,1
+26,Male,Yes,Yes,65,Trauma,8.2,35.4,1
+19,Female,Yes,Yes,75,Stroke,8.7,32.4,0
+65,Female,No,Yes,60,Heart Attack,8.2,3.0,1
+22,Male,No,Yes,28,Heart Attack,4.8,29.5,1
+35,Female,No,Yes,40,Heart Attack,5.7,41.5,1
+33,Male,No,No,59,Heart Attack,7.8,43.5,0
+52,Female,No,Yes,54,Heart Attack,9.5,9.9,0
+36,Male,Yes,Yes,39,Trauma,6.3,47.3,0
+47,Female,No,Yes,22,Trauma,1.2,23.1,0
+49,Female,No,Yes,59,Trauma,4.2,45.9,1
+58,Male,Yes,Yes,29,Stroke,1.2,41.3,0
+52,Male,Yes,Yes,22,Heart Attack,9.2,42.7,0
+38,Female,Yes,No,46,Trauma,9.2,45.3,0
+61,Male,No,No,43,Heart Attack,7.9,22.1,1
+22,Female,No,No,36,Trauma,0.6,45.6,0
+46,Female,No,Yes,80,Trauma,2.9,31.2,0
+39,Male,Yes,Yes,49,Stroke,8.9,10.7,0
+36,Female,No,No,65,Trauma,3.1,32.0,0
+60,Male,No,No,73,Stroke,5.8,13.3,1
+35,Female,No,No,34,Heart Attack,3.5,36.4,0
+55,Female,Yes,No,43,Trauma,4.6,27.7,0
+45,Male,Yes,No,20,Trauma,1.7,7.5,1
+21,Male,No,No,41,Trauma,2.9,23.2,0
+22,Male,No,Yes,67,Trauma,0.6,17.6,0
+29,Female,Yes,Yes,43,Trauma,0.2,13.8,1
+18,Male,No,No,66,Heart Attack,2.8,42.1,1
+49,Female,No,Yes,49,Trauma,7.4,13.7,0
+39,Male,No,No,41,Trauma,2.1,17.5,0
+53,Male,Yes,Yes,20,Trauma,8.9,26.1,0
+26,Female,No,Yes,68,Heart Attack,8.8,41.5,1
+38,Male,No,No,64,Trauma,9.2,27.5,1
+52,Male,Yes,No,67,Stroke,9.8,41.1,1
+20,Female,Yes,No,32,Stroke,9.8,35.1,1
+62,Female,No,No,48,Heart Attack,1.8,20.4,1
+40,Male,No,No,78,Heart Attack,7.6,28.0,1
+32,Female,Yes,Yes,31,Stroke,1.6,40.1,0
+47,Female,Yes,No,46,Heart Attack,4.3,1.0,1
+33,Male,Yes,No,51,Heart Attack,6.5,34.6,1
+52,Male,No,Yes,36,Heart Attack,1.7,20.8,0
+47,Male,No,No,54,Heart Attack,3.3,26.7,1
+19,Male,Yes,Yes,26,Stroke,2.3,25.7,1
+47,Female,Yes,No,72,Stroke,5.2,15.9,1
+24,Male,No,No,45,Stroke,6.0,34.8,0
+54,Female,Yes,Yes,61,Heart Attack,3.0,36.8,1
+27,Female,Yes,Yes,60,Heart Attack,9.1,27.1,0
+57,Female,No,No,47,Stroke,5.5,47.2,1
+67,Female,No,No,45,Trauma,6.0,43.4,0
+36,Female,No,Yes,61,Heart Attack,2.6,14.6,0
+29,Male,No,No,54,Stroke,7.3,10.4,1
+31,Female,No,Yes,64,Heart Attack,6.3,17.2,1
+52,Female,No,Yes,67,Heart Attack,8.8,23.3,1
+33,Male,No,No,44,Heart Attack,7.2,47.1,1
+51,Male,No,No,75,Stroke,1.4,6.8,1
+67,Female,Yes,Yes,50,Heart Attack,2.3,2.2,1
+33,Male,Yes,No,62,Trauma,8.4,19.6,1
+32,Female,Yes,Yes,67,Stroke,4.6,0.6,1
+58,Male,No,Yes,25,Trauma,7.9,47.3,0
+33,Female,No,Yes,18,Heart Attack,6.1,23.0,1
+35,Male,No,Yes,62,Trauma,7.1,3.1,0
+61,Female,Yes,No,38,Stroke,4.8,0.9,1
+69,Female,Yes,No,64,Stroke,1.6,35.2,1
+34,Male,No,No,29,Trauma,0.9,22.5,1
+36,Male,Yes,No,31,Heart Attack,0.1,47.8,0
+54,Female,No,Yes,50,Stroke,0.2,31.3,1
+60,Female,No,Yes,37,Trauma,4.0,28.9,1
